@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1479140528 source:c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\arboldirectorios.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"ArbolDirectorios.h"
+
+1478993931 c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\arboldirectorios.h
+	"Directorio.h"
+
+1478988321 c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\directorio.h
+	"ListaArchivos.h"
+	"Archivo.h"
+
+1478989725 c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\listaarchivos.h
+	"Archivo.h"
+
+1476196603 c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\archivo.h
+	"Tools.h"
+
+1477049860 c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\tools.h
+
+1479140528 source:c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\archivo.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Tools.h"
+	"Archivo.h"
+
+1478988321 source:c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\directorio.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Directorio.h"
+	"ListaArchivos.h"
+
+1479140528 source:c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\listaarchivos.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Archivo.h"
+	"ListaArchivos.h"
+
+1478992434 source:c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Tools.h"
+	"Sistema.h"
+	"ArbolDirectorios.h"
+
+1478776046 c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\sistema.h
+	"Tools.h"
+	"ArbolDirectorios.h"
+
+1479248400 source:c:\users\hp\google drive\facultad\2do semestre\estructura de datos y algoritmos\obligatorios 2016\entrega_2\carlospereira\sistema.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Sistema.h"
+
